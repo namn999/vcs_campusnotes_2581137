@@ -1,2 +1,3 @@
  Notes app for students
  Search : find notes by title 
+ Date format : DD-MM-YYYY
