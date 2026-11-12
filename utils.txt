@@ -1,1 +1,2 @@
 Helper : format note tittle 
+ helper : trim text 
