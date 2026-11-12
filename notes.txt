@@ -1,1 +1,2 @@
  Notes app for students
+ Search : find notes by title 
