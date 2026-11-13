@@ -1,4 +1,4 @@
-# Contributing to CampusNotes
+# Contributing Guidelines for CampusNotes
 
 Thank you for contributing to CampusNotes.
 
