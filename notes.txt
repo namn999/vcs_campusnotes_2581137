@@ -2,3 +2,4 @@
  Search : find notes by title 
  Date format : DD-MM-YYYY
 fixed : spacing in note title
+Delete option added
