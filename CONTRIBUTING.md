@@ -24,3 +24,8 @@ Use Conventional Commits:
 
 Describe what you changed, why the change is useful,
 and link any related GitHub issue.
+Repository: https://github.com/namn999/vcs_campusnotes_2581137
+
+Example branch name: feature/naman-search
+
+In the pull request description, link the related issue using "Closes #n" (for example: Closes #1).
